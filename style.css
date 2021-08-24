@@ -1,0 +1,89 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.background-color{
+    background-color: rgba(0, 0, 255, 0.767);
+    margin-bottom: 150px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 800;
+    color: white;
+}
+
+.first-container{
+    display: flex;
+}
+.half-width{
+    margin: 100px;
+}
+.img-half-width{
+    margin-top: 30px;
+}
+.banner{
+    width: 50%;
+}
+.banner img{
+    width: 80%;
+}
+.watch-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(tomato, salmon);
+    padding: 0.8em 1.5em;
+    
+}
+
+
+
+/* second section */
+.first-flex{
+    display: flex;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding: 0%;
+    margin-bottom: 2rem;
+    
+}
+.image-section img{
+    width: 20rem;
+    height: 16rem;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+    padding-left: 0rem;
+    margin: 0%;
+    
+
+}
+.written-div{
+    justify-content: center;
+    align-items: center;
+}
+.marin{
+    margin-right: 2rem;
+    
+}
+.box-shadow{
+    box-shadow: 1rem 1rem 2.5rem gray;
+    border-radius: 1rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0%;
+    
+}
+
+/* fourth section */
+#heading-color{
+    color: black;
+
+}
+.messi-first-div{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+}
+
